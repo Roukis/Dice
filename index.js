@@ -1,5 +1,5 @@
 
-  // alert("poutsos");
+
 var randomNumber1 = Math.floor(Math.random() * 6) + 1;
 
 var randomDiceImage1 = "dice"+randomNumber1+".png";
